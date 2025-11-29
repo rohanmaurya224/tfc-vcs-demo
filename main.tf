@@ -40,6 +40,6 @@ provider "aws" {
 
 resource "aws_s3_bucket" "demo" {
 
-  bucket = "tfc-cli-demo-bucket-47-rkm"
+  bucket = "tfc-cli-demo-bucket-909047-rkm"
 
 }
